@@ -166,7 +166,7 @@ a {
 }
 
 .default {
-  background-color: $color-prim;
+  background-color:$color-prim;
 }
 
 .error {
