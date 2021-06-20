@@ -100,7 +100,7 @@
   max-height: 100%;
 }
 
-@media (max-width: (max-width: 768px)) {
+@media (max-width: 768px) {
   .img-avatar {
     display: none;
   }
