@@ -75,7 +75,7 @@ a {
 }
 
 .theme.col-2 {
-  background-color: #fd7856;
+  background-color: $orange;
 }
 
 .theme.col-3 {
